@@ -48,8 +48,8 @@ public class MainActivity extends AppCompatActivity { // ประกาศต�
             txtv.setText("แปด");
         }else if (etxtnum.getText().toString().equals("9")){
             txtv.setText("เก้า");
-        }else if (etxtnum.getText().toString().equals("100")){
-            txtv.setText("หนึ่งร้อย");
+        }else if (etxtnum.getText().toString().equals("10")){
+            txtv.setText("สิบ");
         }
     }
 }
